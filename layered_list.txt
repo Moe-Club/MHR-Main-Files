@@ -1,0 +1,163 @@
+/--- LR/HR ---/
+200,Kamura
+001,Leather
+014,Chainmail
+002,Hunter
+004,Alloy
+003,Bone
+245,Spio
+217,Bnahabra
+211,Izuchi
+223,Baggi
+009,Kulu-Ya-Ku
+222,Wroggi
+224,Arzuros
+225,Lagombi
+203,Aknosom
+229,Khezu
+204,Tetranadon
+031,Ingot
+244,Edel
+215,Rhenoplos
+226,Volvidon
+227,Royal Ludroth
+012,Barroth
+202,Bishaten
+010,Pukei-Pukei
+011,Jyuratodus
+233,Basarios
+021,Rathian
+044,Dober
+248,Shell-Studded
+238,Melahoa
+026,Death Stench
+240,Mosgharl
+242,Vaik
+239,Makluva
+246,Medium
+259,Channeler
+219,Remobra
+205,Somnacanth
+079,Barioth
+013,Tobi-Kadachi
+020,Anjanath
+080,Nargacuga
+228,Mizutsune
+033,Rathalos
+234,Zinogre
+241,Rhopessa
+249,Jelly
+036,Brigade
+201,Sinister
+207,Goss Harag
+208,Almudron
+083,Tigrex
+034,Diablos
+206,Rakna-Kadaki
+235,Golden
+043,Damascus
+047,Kushala Daora
+212,Mizuha
+046,Kaiser
+042,Bazelgeuse
+209,Ibushi
+210,Narwa
+237,Crimson Valstrax
+
+/--- MR ---/
+360,Hornetaur
+359,Vespoid
+358,Velociprey
+310,Izuchi X
+328,Kulu-Ya-Ku X
+302,Aknosom X
+315,Royal Ludroth X
+316,Barroth X
+337,Hermitaur
+303,Tetranadon X
+385,Five Element
+372,Knight Squire
+388,Yukumo Sky
+317,Khezu X
+301,Bishaten X
+347,Orangaten
+329,Pukei-Pukei X
+330,Jyuratodus X
+324,Basarios X
+304,Somnacanth X
+348,Auroracanth
+320,Rathian X
+331,Tobi-Kadachi X
+332,Anjanath X
+373,Royal Artillery Corps
+376,Scholar
+386,Guardian
+319,Barioth X
+300,Sinister Demon
+306,Goss Harag X
+354,Garangolm
+338,Ceanataur
+307,Almudron X
+350,Magmadron
+305,Rakna-Kadaki X
+349,Pyre-Kadaki
+384,Snowshear
+383,Barbania
+371,Heavy Knight
+378,Lecturer
+369,Dignified
+334,Mizutsune X
+321,Rathalos X
+325,Zinogre X
+353,Lunagaron
+344,Astalos
+356,Espinas
+341,Gore Magala
+343,Seregios
+322,Tigrex X
+323,Diablos X
+314,Damascus X
+361,Azure
+374,Charité
+379,Scholarly
+380,Commission
+377,Sailor
+387,Guild Palace
+311,Kushala X
+312,Grand Mizuha
+313,Kaiser X
+352,Malzeno
+342,Storge
+326,Grand God's Peer
+333,Bazelgeuse X
+381,Base Commander
+355,Archfiend Armor
+308,Ibushi - Pure
+309,Narwa - Pure
+339,Grand Divine Ire
+327,Crimson Valstrax - Eclipse
+346,Sinister Grudge
+351,Pride
+335,Golden Lune
+336,Silver Sol
+340,Lucent Narga
+
+/--- Special ---/
+272,Kamurai
+279,Guild Cross
+277,Diver
+289,Orion
+278,Origin
+280,Black Belt
+290,Gala Suit
+291,Blossom
+293,Azure Age
+433,Black Belt S
+394,Dragonsbane
+395,Summer
+600,Fiorayne
+363,Lien
+254,Rider
+
+/--- Screenshot ---/
+501,AraScreenshot
